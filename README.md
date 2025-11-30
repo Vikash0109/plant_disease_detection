@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📌 Overview
 
 This project implements a Deep Learning–based Plant Disease Detection System using EfficientNetB4.
@@ -86,3 +87,6 @@ To build a robust and efficient AI system that can automatically detect plant di
 ✔ Researchers
 ✔ Agriculture-based industries
 ✔ By improving crop health and minimizing loss.
+=======
+# plant_disease_detection
+>>>>>>> 1d344104f316e9d95a36270243e52f86a5fb394e
